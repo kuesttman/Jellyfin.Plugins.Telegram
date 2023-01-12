@@ -1,6 +1,6 @@
 [
     {
-        "guid": "c83d86bb-a1e0-4c35-a113-e2101cf4ee6b",
+        "guid": "0269B736-58C7-436C-995B-0F7127092D5F",
         "name": "Jellyfin Plugins Telegram",
         "overview": "Agente de notificação de bot do Telegram para Jellyfin",
         "description": "Agente de notificação de bot do Telegram para Jellyfin. Acesse o Repositorio: https://github.com/kuesttman/Jellyfin.Plugins.Telegram",
