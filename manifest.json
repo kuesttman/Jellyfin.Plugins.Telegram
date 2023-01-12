@@ -1,0 +1,22 @@
+[
+    {
+        "guid": "c83d86bb-a1e0-4c35-a113-e2101cf4ee6b",
+        "name": "Jellyfin Plugins Telegram",
+        "overview": "Agente de notificação de bot do Telegram para Jellyfin",
+        "description": "Agente de notificação de bot do Telegram para Jellyfin. Acesse o Repositorio: https://github.com/kuesttman/Jellyfin.Plugins.Telegram",
+        "owner": "kuesttman",
+        "category": "Notifications",
+        "imageUrl": "https://raw.githubusercontent.com/kuesttman/Jellyfin.Plugins.Telegram/1.7.0.0/Jellyfin.Plugins.Telegram/thumb.jpg",
+        "versions": [
+            {
+                "version": "1.7.0.0",
+                "changelog": "- See the full changelog at [GitHub](https://github.com/kuesttman/Jellyfin.Plugins.Telegram/blob/1.7.0.0/README.md)\n",
+                "targetAbi": "10.7.4.0",
+                "sourceUrl": "https://github.com/kuesttman/Jellyfin.Plugins.Telegram/releases/download/1.7.0.0/Jellyfin.Plugins.Telegram_v1.7.0.0.zip",
+                "checksum": "59ad7ef932cbee9a29abf62cec9181d9",
+                "timestamp": "2022-10-27T03:27:27Z"
+            }
+
+        ]
+    }
+]
